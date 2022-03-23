@@ -1,0 +1,49 @@
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 15px;
+  font-weight: 300px;
+  background-color: lightblue;
+  color: black;
+}
+
+h1 {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+strong {
+  font-weight: 600px;
+  color: red;
+}
+
+.column {
+  width: 30%;
+  float: left;
+  border: dotted navy;
+  background-color: lightpink;
+}
+
+.column p {
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  font-weight: 300px;
+  color: grey;
+}
+
+.column strong {
+  font-weight: 600px;
+  color: purple;
+}
+
+.column img {
+  margin: auto;
+  width: 50%;
+  height: auto;
+  display: block;
+}
+
+.test {
+  margin: auto;
+  width: 300px;
+  height: auto;
+  display: block;
+}
